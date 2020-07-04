@@ -1,0 +1,19 @@
+body   {  
+    background: #FDFDFF;
+    color: #62929E;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+    margin-top: 60px;
+    margin-left: 60px;
+}
+
+.socials {
+    margin-left: 62.5px;
+    display: space-between;
+}
+
+.socials a {
+    padding: 5px;
+}
