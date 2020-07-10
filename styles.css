@@ -9,6 +9,11 @@ h1 {
     margin-left: 60px;
 }
 
+h4 {
+    margin-top: 70px;
+    margin-left: 70px;
+}
+
 .socials {
     margin-left: 62.5px;
     display: space-between;
@@ -17,3 +22,18 @@ h1 {
 .socials a {
     padding: 5px;
 }
+
+.tabs {
+    display: flex;
+    
+}
+a {
+    color: #62929E;
+
+}
+  a:link {
+    text-decoration: none;
+    color: #62929E;
+    font-family: 'Quicksand', sans-serif;
+  }
+    
